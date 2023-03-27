@@ -1,0 +1,2 @@
+The tool in this repo plots ACT time series within the date ranges of the "Santa Slammer" (Colorado).
+Using the full date range can take a long time to download and has caused some memory issues on my machine, depending on the instrument.
