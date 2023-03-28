@@ -1,2 +1,3 @@
 The tool plots ACT time series within the date ranges of the "Santa Slammer" (Colorado).
 Using the full date range can take a long time to download and/or plot data.
+Uses the environment file from https://github.com/ARM-Development/open-science-rockies-2022 also with Panel installed
